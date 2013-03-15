@@ -12,6 +12,7 @@
 
 
 /* Bebas */
+/*
 @font-face {
 	font-family: 'BebasRegular';
 	src: url('https://aon-cdn.googlecode.com/svn/fonts/bebas/bebas___-webfont.eot');
@@ -19,15 +20,16 @@
                               url('https://aon-cdn.googlecode.com/svn/fonts/bebas/bebas___-webfont.ttf') format('truetype'), 
                               url('https://aon-cdn.googlecode.com/svn/fonts/bebas/bebas___-webfont.svg#webfontQP81fmen') format('svg');
 }
+*/
 
 
-/*@font-face {
+@font-face {
   font-family: 'BebasRegular';
   font-style: normal;
   font-weight: 400;
-  src: local('BebasRegular'), url(https://aon-cdn.googlecode.com/svn/fonts/bebas/bebas___-webfont.woff) format('woff');
+  src: local('BebasRegular'), url(http://aon-cdn.googlecode.com/svn/fonts/bebas/bebas.woff) format('woff');
 }
-*/
+
 
 /* MyriadProRegular */
 /*@font-face {
